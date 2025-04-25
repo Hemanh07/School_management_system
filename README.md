@@ -4,17 +4,7 @@ This repository implements a REST API using **Node.js**, **Express.js**, and **M
 
 ---
 
-## 📌 Requirements
-
-- Node.js >= 14.x
-    
-- MySQL >= 5.x
-    
-- Postman (for API testing and documentation)
-    
-
----
-
+ 
 ## 🧱 Tech Stack
 
 - **Backend**: Node.js, Express.js
@@ -42,7 +32,7 @@ Table: `school_management_system`
 | latitude | FLOAT | NOT NULL |
 | longitude | FLOAT | NOT NULL |
 
-> Ensure the database and table are created before using the API. 
+ 
   
 
 ---
