@@ -15,7 +15,7 @@ This repository implements a REST API using **Node.js**, **Express.js**, and **M
     
 - **Testing**: Postman
     
-- **Hosting**: Compatible with any Node.js environment (e.g., Render, Railway, EC2)
+- **Hosting**: Render.com
     
 
 ---
